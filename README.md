@@ -1,2 +1,4 @@
 # Othello-Reversi-Game
-Created with CodeSandbox
+
+OTHELLOSM
+Othello Game Online by [Matrix Sync](https://othellosm.msync.my.id)
